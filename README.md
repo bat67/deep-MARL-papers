@@ -19,3 +19,22 @@ https://arxiv.org/abs/1705.08926
 
 
 
+### Coordination
+
+Hysteretic Q-learning : an algorithm for Decentralized Reinforcement Learning in Cooperative Multi-Agent Teams
+https://ieeexplore.ieee.org/document/4399095
+
+Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability
+https://arxiv.org/abs/1703.06182
+
+Lenient Learning in Independent-Learner Stochastic Cooperative Games
+https://jmlr.org/papers/v17/15-417.html
+
+Lenient Multi-Agent Deep Reinforcement Learning
+https://arxiv.org/abs/1707.04402
+
+Explicitly Coordinated Policy Iteration
+https://www.ijcai.org/Proceedings/2019/51
+
+
+
