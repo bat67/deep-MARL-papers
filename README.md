@@ -75,3 +75,19 @@ https://arxiv.org/abs/1901.10902
 
 
 
+### Neural Network Design
+
+Deep reinforcement learning with relational inductive biases
+https://openreview.net/forum?id=HkxaFoC9KQ
+
+Action Semantics Network: Considering the Effects of Actions in Multiagent Systems
+https://arxiv.org/abs/1907.11461
+
+Multi-Agent Game Abstraction via Graph Attention Neural Network
+https://arxiv.org/abs/1911.10715
+
+From Few to More: Large-scale Dynamic Multiagent Curriculum Learning
+https://arxiv.org/abs/1909.02790
+
+
+
