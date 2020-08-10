@@ -91,3 +91,34 @@ https://arxiv.org/abs/1909.02790
 
 
 
+### Opponent Exploration
+
+Opponent Modeling in Deep Reinforcement Learning
+https://arxiv.org/abs/1609.05559
+
+Efficiently detecting switches against non-stationary opponents
+http://ifaamas.org/Proceedings/aamas2017/pdfs/p920.pdf
+
+An exploration strategy for non-stationary opponents
+https://link.springer.com/article/10.1007/s10458-016-9347-3?shared-article-renderer
+
+A Deep Bayesian Policy Reuse Approach Against Non-Stationary Agents
+https://papers.nips.cc/paper/7374-a-deep-bayesian-policy-reuse-approach-against-non-stationary-agents
+
+Autonomous Agents Modelling Other Agents: A Comprehensive Survey and Open Problems
+https://arxiv.org/abs/1709.08071
+
+A Deep Policy Inference Q-Network for Multi-Agent Systems
+https://arxiv.org/abs/1712.07893
+
+Learning with Opponent-Learning Awareness
+https://arxiv.org/abs/1709.04326
+
+Bayes-ToMoP: A Fast Detection and Best Response Algorithm Towards Sophisticated Opponents
+http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2282.pdf
+
+Towards Efficient Detection and Optimal Response against Sophisticated Opponents
+https://arxiv.org/abs/1809.04240
+
+
+
