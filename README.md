@@ -122,3 +122,27 @@ https://arxiv.org/abs/1809.04240
 
 
 
+### Multi-Agent Exploration
+
+Influence-Based Multi-Agent Exploration
+https://arxiv.org/abs/1910.05512
+
+Coordinated Exploration in Concurrent Reinforcement Learning
+https://arxiv.org/abs/1802.01282
+
+Scalable Coordinated Exploration in Concurrent Reinforcement Learning
+https://arxiv.org/abs/1805.08948
+
+Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision Problems
+http://proceedings.mlr.press/v80/bargiacchi18a.html
+
+Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning
+https://arxiv.org/abs/1905.12127
+
+
+
+
+
+
+
+
