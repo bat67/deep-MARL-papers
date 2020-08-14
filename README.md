@@ -3,7 +3,7 @@
 ![overview](overview.png)
 
 
-### Centralized Training, Decentralized Execution (CTDE)
+## Centralized Training, Decentralized Execution (CTDE)
 
 Value-Decomposition Networks For Cooperative Multi-Agent Learning
 https://arxiv.org/abs/1706.05296
@@ -22,7 +22,7 @@ https://arxiv.org/abs/1705.08926
 
 
 
-### Coordination
+## Coordination
 
 Hysteretic Q-learning : an algorithm for Decentralized Reinforcement Learning in Cooperative Multi-Agent Teams
 https://ieeexplore.ieee.org/document/4399095
@@ -41,7 +41,7 @@ https://www.ijcai.org/Proceedings/2019/51
 
 
 
-### Learning to Communicate
+## Learning to Communicate
 
 Learning to Communicate with Deep Multi-Agent Reinforcement Learning
 https://arxiv.org/abs/1605.06676
@@ -78,7 +78,7 @@ https://arxiv.org/abs/1901.10902
 
 
 
-### Neural Network Design
+## Neural Network Design
 
 Deep reinforcement learning with relational inductive biases
 https://openreview.net/forum?id=HkxaFoC9KQ
@@ -94,7 +94,7 @@ https://arxiv.org/abs/1909.02790
 
 
 
-### Opponent Exploration
+## Opponent Exploration
 
 Opponent Modeling in Deep Reinforcement Learning
 https://arxiv.org/abs/1609.05559
@@ -125,7 +125,7 @@ https://arxiv.org/abs/1809.04240
 
 
 
-### Multi-Agent Exploration
+## Multi-Agent Exploration
 
 Influence-Based Multi-Agent Exploration
 https://arxiv.org/abs/1910.05512
