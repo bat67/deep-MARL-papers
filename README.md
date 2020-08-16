@@ -20,6 +20,15 @@ https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative
 Counterfactual Multi-Agent Policy Gradients
 https://arxiv.org/abs/1705.08926
 
+Actor-Attention-Critic for Multi-Agent Reinforcement Learning
+https://arxiv.org/abs/1810.02912
+
+QPLEX: Duplex Dueling Multi-Agent Q-Learning
+https://arxiv.org/abs/2008.01062
+
+DOP: Off-Policy Multi-Agent Decomposed Policy Gradients
+https://arxiv.org/abs/2007.12322v1
+
 
 
 ## Coordination
